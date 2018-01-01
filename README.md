@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+hello, I like watching the sun set and gazing at the stars. 
